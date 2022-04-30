@@ -20,6 +20,7 @@
     "watch:css": "postcss src/styles/global.css"
   },
   "dependencies": {
+    "@headlessui/react": "^1.6.0",
     "cypress": "^9.5.4",
     "firebase": "^9.6.11",
     "next": "12.1.5",
