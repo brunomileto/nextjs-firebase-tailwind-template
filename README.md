@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) template bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-This template uses [Stitches](https://stitches.dev/) and [Radix](https://www.radix-ui.com/) for CSS-in-JS, [Firebase Firestore](https://firebase.google.com/) as database, [SWR](https://swr.vercel.app/) for data-fetching and [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/) and [Cypress](https://www.cypress.io/) for tests.
+This template uses [TailwindCSS](https://tailwindcss.com/) and [Radix](https://www.radix-ui.com/) and [HeadlessUI] (https://headlessui.dev/) for CSS-in-JS, [Firebase Firestore](https://firebase.google.com/) as database, [SWR](https://swr.vercel.app/) for data-fetching and [Jest](https://jestjs.io/), [Testing Library](https://testing-library.com/) and [Cypress](https://www.cypress.io/) for tests.
 
 ## Getting Started
 
@@ -28,7 +28,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - [React](https://github.com/facebook/react)
 - [Next.js](https://github.com/zeit/next.js)
 - [Firebase Firestore & Auth](https://firebase.google.com/)
-- [Stitches](https://stitches.dev/)
+- [TailwindCSS](https://tailwindcss.com/)
+- [HeadlessUI](https://headlessui.dev/)
 - [Radix](https://www.radix-ui.com/)
 - [SWR](https://swr.vercel.app/)
 - [Jest](https://jestjs.io/)
